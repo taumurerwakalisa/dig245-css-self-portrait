@@ -68,6 +68,7 @@ See Moodle.
 1. Previsualize your layout by making sketches in [Figma](https://www.youtube.com/watch?v=AJK9NBGL5Bk). Try placing an image of yourself and tracing it with the shape tool, choosing colors as you do. 
 1. Experiment to find your own style!
 
+
 ## Code
 
 1. Use HTML, CSS, and JS to code your design inside `index.html`
