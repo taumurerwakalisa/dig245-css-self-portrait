@@ -102,7 +102,10 @@ See Moodle.
 <details>
 <summary>Past examples</summary>
   
-
+- 2023
+    [Jeremy](https://jeremykemp1.github.io/dig245-css-self-portrait/)
+    [David](https://yodering.github.io/dig245-css-self-portrait/)
+    [Erika](https://erikan14.github.io/dig245-css-self-portrait/)
 - 2022 
     [Zoe](https://zoearen.github.io/dig245-css-self-portrait/)
     [Gaby](https://gasanclimenti.github.io/dig245-css-self-portrait/)
