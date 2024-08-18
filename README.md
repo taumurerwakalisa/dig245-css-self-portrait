@@ -45,21 +45,23 @@ See Moodle.
 
 
 
+## Concept
 
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
-
+- 📚 "View Source" (chapter 2) in *Critical Web Design*
 
 
-## Inspiration
+
+#### Inspiration
+
+See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry) or [#color](https://omundy.github.io/critical-web-design-index#color), including...
 
 - Historical examples of [self-portraits](https://mymodernmet.com/famous-self-portraits/) in art
 - Modern [pure CSS](https://css-art.com/) examples like Diana Adrianne's [francine](https://diana-adrianne.com/purecss-francine/) and [vignes](https://diana-adrianne.com/purecss-vignes/);  [Sarah Fossheim's](https://fossheim.io/) [polaroid](https://css-art.com/polaroid-camera-in-css/) and [casio](https://css-art.com/casiopt-1-css/) 
 - Collections of chracters on [Dribble](https://dribbble.com/search/flat%20characters), [@musketon](https://www.instagram.com/musketon/), [@thomcat23](https://www.instagram.com/thomcat23/), [@thomas_danthony](https://www.instagram.com/thomas_danthony/), [@vector.mob](https://www.instagram.com/vector.mob/), [@cecierlich](https://www.instagram.com/cecierlich/), [@owendaveydraws](https://www.instagram.com/owendaveydraws/), [@mister_fred_berlin](https://www.instagram.com/mister_fred_berlin/), [@nina_dzyvulska](https://www.instagram.com/nina_dzyvulska/), [@eezy](https://www.instagram.com/eezy/)
-- Generative / deformations [Humaaans](https://www.humaaans.com/), [Dribbble Geometric patterns in graphic design](https://dribbble.com/stories/2020/11/11/simple-geometric-pattern-inspiration) David Lewandowski [Late for Meeting](https://vimeo.com/78424222)
-- Others from the WWW: [species-in-pieces.com](http://species-in-pieces.com/), [Form Art](http://www.c3.hu/collection/form/), [Lorna Mills](https://www.instagram.com/lorna.mills/?hl=en)
+- Generative / deformations [Humaaans](https://www.humaaans.com/), [Dribbble Geometric patterns in graphic design](https://dribbble.com/stories/2020/11/11/simple-geometric-pattern-inspiration), David Lewandowski [Late for Meeting](https://vimeo.com/78424222), [species-in-pieces.com](http://species-in-pieces.com/), [Lorna Mills](https://www.instagram.com/lorna.mills/?hl=en)
 - [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014) or [Polychrome](https://www.instagram.com/p/ChcOtIDrWOw/?hl=en) by Rafaël Rozendaal
+
+
 
 
 ## Design
@@ -71,6 +73,7 @@ See Moodle.
 
 ## Code
 
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use only hand-typed HTML and CSS for graphics; Do not add image or SVG files to the code. Do not use Figma to export code from your drawing.
 1. Create those elements with HTML `<div>` tags
