@@ -51,7 +51,15 @@ See Moodle.
 
 
 
-#### Inspiration
+
+### Inspiration
+
+- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-2-view-source): 
+[Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), 
+[Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html), 
+[After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), 
+[Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), 
+[Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) 
 
 See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry) or [#color](https://omundy.github.io/critical-web-design-index#color), including...
 
