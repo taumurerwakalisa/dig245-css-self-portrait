@@ -105,7 +105,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
-
+- See this article [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/) which describes how to use [CSS clip-path maker](https://bennettfeely.com/clippy/) to create very specific shapes.
 
 
 
