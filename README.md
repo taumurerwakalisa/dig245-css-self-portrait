@@ -123,7 +123,7 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
     [Awais](https://awabid.github.io/dig245-css-self-portrait/)
     [Lillian](https://limilano.github.io/dig245-css-self-portrait/)
 - 2021
-    [Owen](https://jsfiddle.net/ow3n/xnkfLuvz/)
+    [Owen](https://codepen.io/owenmundy/pen/qBzgMpQ?editors=1100)
     [Drew](https://drdibble.github.io/dig245-css-self-portrait/)
     [Annelise](https://anclaire.github.io/dig245-css-self-portrait/)
     [Evan](https://evrothman.github.io/dig245-css-self-portrait/)
