@@ -113,6 +113,12 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 <details>
 <summary>Past examples</summary>
   
+- 2024
+	[Melz](https://hello2006-debug.github.io/dig245-css-self-portrait/)
+	[Harsh](https://hd-codewizard.github.io/dig245-css-self-portrait/)
+	[Whitney](https://winne-inne.github.io/dig245-css-self-portrait/)
+	[Pacis](https://n-pacis.github.io/dig245-css-self-portrait/)
+	[Julia](https://siqjulia.github.io/dig245-css-self-portrait/)
 - 2023
     [Jeremy](https://jeremykemp1.github.io/dig245-css-self-portrait/)
     [David](https://yodering.github.io/dig245-css-self-portrait/)
