@@ -11,8 +11,11 @@
 
 Create a self-portrait using only HTML and CSS
 
+
 <details>
-<summary>Learning Objectives</summary>
+<summary>Learning Objectives, Preparation, Rubric</summary>
+
+### Learning Objectives
 
 Students who complete this assignment will be able to:
 
@@ -21,10 +24,8 @@ Students who complete this assignment will be able to:
 - Compare methods for changing the color of web elements with CSS
 - Use HTML, CSS, JS to code a web page with a creative self-portrait
 
-</details>
 
-<details>
-<summary>Preparation</summary>
+### Preparation
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
@@ -36,45 +37,25 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - Quiz 2 - Document Standards
 - Course content listed on the schedule
 
-</details>
 
-<details>
-<summary>Rubric</summary>
+### Rubric
+
 See Moodle.
+
 </details>
 
 
 
-## Concept
-
-- 📚 "View Source" (chapter 2) in *Critical Web Design*
 
 
 
-
-### Inspiration
-
-- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-2-view-source): 
-[Poem (Shake)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-shake.html), 
-[Poem (Think)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-think.html), 
-[After Gerhard Rühm](https://omundy.github.io/critical-web-design-book/02-view-source/examples/after-ruhm.html), 
-[Poem (Click)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-click.html), 
-[Poem (Chaos)](https://omundy.github.io/critical-web-design-book/02-view-source/examples/poem-chaos.html) 
-
-See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#visual poetry](https://omundy.github.io/critical-web-design-index#visual%20poetry) or [#color](https://omundy.github.io/critical-web-design-index#color), including...
-
-- Historical examples of [self-portraits](https://mymodernmet.com/famous-self-portraits/) in art
-- Modern [pure CSS](https://css-art.com/) examples like Diana Adrianne's [francine](https://diana-adrianne.com/purecss-francine/) and [vignes](https://diana-adrianne.com/purecss-vignes/);  [Sarah Fossheim's](https://fossheim.io/) [polaroid](https://css-art.com/polaroid-camera-in-css/) and [casio](https://css-art.com/casiopt-1-css/) 
-- Collections of chracters on [Dribble](https://dribbble.com/search/flat%20characters), [@musketon](https://www.instagram.com/musketon/), [@thomcat23](https://www.instagram.com/thomcat23/), [@thomas_danthony](https://www.instagram.com/thomas_danthony/), [@vector.mob](https://www.instagram.com/vector.mob/), [@cecierlich](https://www.instagram.com/cecierlich/), [@owendaveydraws](https://www.instagram.com/owendaveydraws/), [@mister_fred_berlin](https://www.instagram.com/mister_fred_berlin/), [@nina_dzyvulska](https://www.instagram.com/nina_dzyvulska/), [@eezy](https://www.instagram.com/eezy/)
-- Generative / deformations [Humaaans](https://www.humaaans.com/), [Dribbble Geometric patterns in graphic design](https://dribbble.com/stories/2020/11/11/simple-geometric-pattern-inspiration), David Lewandowski [Late for Meeting](https://vimeo.com/78424222), [species-in-pieces.com](http://species-in-pieces.com/), [Lorna Mills](https://www.instagram.com/lorna.mills/?hl=en)
-- [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014) or [Polychrome](https://www.instagram.com/p/ChcOtIDrWOw/?hl=en) by Rafaël Rozendaal
 
 
 
 
 ## Design
 
-1. Start by looking at examples for inspiration
+1. Start by looking at examples for [inspiration](#inspiration)
 1. Previsualize your layout by making sketches in [Figma](https://www.youtube.com/watch?v=AJK9NBGL5Bk). Try placing an image of yourself and tracing it with the shape tool, choosing colors as you do. 
 1. Experiment to find your own style!
 
@@ -103,9 +84,28 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 
 ## Resources
 
+### Technology
+
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - See this article [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/) which describes how to use [CSS clip-path maker](https://bennettfeely.com/clippy/) to create very specific shapes.
+
+
+### Inspiration
+
+- 📚 "View Source" (chapter 2) in *Critical Web Design*
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-2-view-source): 
+[Poem (Shake)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-shake.html), 
+[Poem (Think)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-think.html), 
+[After Gerhard Rühm](https://criticalwebdesign.github.io/book/02-view-source/examples/after-ruhm.html), 
+[Poem (Click)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-click.html), 
+[Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html) 
+- Historical examples of [self-portraits](https://mymodernmet.com/famous-self-portraits/) in art
+- Collections of chracters on [Dribble](https://dribbble.com/search/flat%20characters), [@musketon](https://www.instagram.com/musketon/), [@thomcat23](https://www.instagram.com/thomcat23/), [@thomas_danthony](https://www.instagram.com/thomas_danthony/), [@vector.mob](https://www.instagram.com/vector.mob/), [@cecierlich](https://www.instagram.com/cecierlich/), [@owendaveydraws](https://www.instagram.com/owendaveydraws/), [@mister_fred_berlin](https://www.instagram.com/mister_fred_berlin/), [@nina_dzyvulska](https://www.instagram.com/nina_dzyvulska/), [@eezy](https://www.instagram.com/eezy/)
+- Generative / deformations [Humaaans](https://www.humaaans.com/), [Dribbble Geometric patterns in graphic design](https://dribbble.com/stories/2020/11/11/simple-geometric-pattern-inspiration), David Lewandowski [Late for Meeting](https://vimeo.com/78424222), [species-in-pieces.com](http://species-in-pieces.com/), [Lorna Mills](https://www.instagram.com/lorna.mills/?hl=en)
+- Modern [pure CSS](https://robleto.medium.com/pure-css-art-one-html-tag-my-divtober-2023-collection-34d6eb83b106) examples like  [francine](https://diana-adrianne.com/purecss-francine/) and [vignes](https://diana-adrianne.com/purecss-vignes/) by Diana Adrianne, or [polaroid](https://codepen.io/fossheim/pen/VweaNYW) and [casio](https://codepen.io/fossheim/pen/xxboBzO) by [Sarah Fossheim](https://fossheim.io/)
+- Related projects (and tags [#color](https://criticalwebdesign.github.io/index#color) [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry)) in the [Critical Web Design Index](https://criticalwebdesign.github.io/index/)...
+  - [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014) or [Polychrome](https://www.instagram.com/p/ChcOtIDrWOw/?hl=en) by Rafaël Rozendaal
 
 
 
