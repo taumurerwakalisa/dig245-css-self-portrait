@@ -1,2 +1,205 @@
 
 /* css */
+
+.face{
+   
+    position:absolute;
+    background-color: burlywood;
+    margin:190px;
+    margin-left: 395px;
+    width: 145px;
+    height:150px;
+    border-radius: 25%;
+
+}
+
+
+.hairsides{
+    
+    position:absolute;
+    background-color: black;
+    margin: 150px;
+    margin-left:333px;
+    width: 279px;
+    height: 200px;
+    border-radius:30%;
+}
+
+.curl1{
+    
+    position:absolute;
+    background-color: black;
+    margin: 173px;
+    margin-left:310px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+
+.curl2{
+    
+    position:absolute;
+    background-color: black;
+    margin: 235px;
+    margin-left:300px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+.curl3{
+    
+    position:absolute;
+    background-color: black;
+    margin: 280px;
+    margin-left:350px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+
+.curl4{
+    
+    position:absolute;
+    background-color: black;
+    margin: 280px;
+    margin-left:490px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+
+.curl5{
+    
+    position:absolute;
+    background-color: black;
+    margin: 235px;
+    margin-left: 535px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+.curl6{
+    
+    position:absolute;
+    background-color: black;
+    margin: 165px;
+    margin-left: 530px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+.curl7{
+    
+    position:absolute;
+    background-color: black;
+    margin: 130px;
+    margin-left: 490px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+
+.curl8{
+    
+    position:absolute;
+    background-color: black;
+    margin: 120px;
+    margin-left: 420px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+.curl9{
+    
+    position:absolute;
+    background-color: black;
+    margin: 130px;
+    margin-left: 350px;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+}
+
+
+
+.lip1{
+    position: absolute;
+    background-color:red;
+    margin: 285px;
+    margin-left: 452px;
+    width: 40px;
+    height: 20px;   
+    border-radius: 60%;
+}
+
+
+.righteye{
+    
+    position: absolute;
+    background-color: white;
+    margin: 215px;
+    margin-left: 490px;
+    width: 30px; 
+    height:25px;
+    border-radius: 40%;
+}
+
+.rightpupil{
+    position: absolute;
+    background-color: black;
+    margin: 220px;
+    margin-left: 498px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+
+.lefteye{
+    
+    position: absolute;
+    background-color: white;
+    margin: 215px;
+    margin-left: 420px;
+    width: 30px; 
+    height:25px;
+    border-radius: 40%;
+}
+
+.leftpupil{
+    position: absolute;
+    background-color: black;
+    margin: 220px;
+    margin-left: 428px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.neck{
+    position:absolute;
+    background-color:burlywood;
+    margin: 299px;
+    margin-left: 438px;
+    width: 60px;
+    height: 96px;
+}
+
+.body{
+    position: absolute;
+    background-color: purple;
+    margin: 390px;
+    margin-left: 340px;
+    width: 270px;
+    height: 150px;
+    border-radius: 30%;
+}
+
